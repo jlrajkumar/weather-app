@@ -22,6 +22,11 @@ background-image: url('./assets/sun-red-weather.jpg');
 
 }
 
+.app.wel{
+  background-image: url('https://images.pexels.com/photos/695657/pexels-photo-695657.jpeg?cs=srgb&dl=pexels-johann-piber-695657.jpg&fm=jpg');
+  background-blend-mode: lighten;
+}
+
 main{
   min-height: 100vh;
   background-image: linear-gradient(to bottom rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.75));
